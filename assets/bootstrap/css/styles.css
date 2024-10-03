@@ -1,0 +1,13 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Cambia la fuente a Comic Sans MS */
+    background-color: #f8f9fa; /* Color de fondo suave */
+}
+
+.container {
+    margin-top: 20px; /* Espacio en la parte superior de la página */
+}
+
+h1 {
+    color: #007bff; /* Color azul para el título */
+    margin-bottom: 20px; /* Espacio inferior en el título */
+}
